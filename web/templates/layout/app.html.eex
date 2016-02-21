@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Hello PhoenixTheme!</title>
+    <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+    <header>
+      <div class="col-xs-6">
+        LOGO HERE
+      </div>
+
+      <div class="col-xs-6 text-right">
+        LINKS HERE
+      </div>
+      <div class="col-xs-6 text-right">
+        <div id="header-links">
+          <a href="<%#= quote_path(@conn, :new) %>">Contribute</a>
+        </div>
+      </div>
+
+    </header>
+    <hr class="clear col-xs-12"/>
+
+    <%= render @view_module, @view_template, assigns %>
+  </body>
+</html>

@@ -3,8 +3,8 @@
 ## This is experiment adding SASS and Bootstrap Theme to Phoenix
 
 1. Added SASS
-   http://phoenix.thefirehoseproject.com/10.html
-   http://stackoverflow.com/questions/34147183/integrate-bootstrap-theme-in-phoenix-framework
+   * http://phoenix.thefirehoseproject.com/10.html
+   * http://stackoverflow.com/questions/34147183/integrate-bootstrap-theme-in-phoenix-framework
 
 
 

@@ -1,5 +1,16 @@
 # PhoenixTheme
 
+## This is experiment adding SASS and Bootstrap Theme to Phoenix
+
+1. Added SASS
+   http://phoenix.thefirehoseproject.com/10.html
+   http://stackoverflow.com/questions/34147183/integrate-bootstrap-theme-in-phoenix-framework
+
+
+
+
+## Standard Readme
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`

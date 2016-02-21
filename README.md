@@ -1,6 +1,6 @@
 # PhoenixTheme
 
-## This is experiment adding SASS and Bootstrap Theme to Phoenix
+## This is an experiment adding SASS and Bootstrap Theme to Phoenix
 
 1. Added SASS
    * http://phoenix.thefirehoseproject.com/10.html
